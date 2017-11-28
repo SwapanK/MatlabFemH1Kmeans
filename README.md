@@ -1,6 +1,6 @@
 # MatlabFemH1Kmeans
 
-Implementation of FEM-H1 methodology for non-stationary time-series analysis in Matlab.
+The most basic implementation of FEM-H1 methodology for non-stationary 1D time-series analysis in Matlab.
 
 
 ## Developed during PASC project:
