@@ -19,7 +19,7 @@ http://epubs.siam.org/doi/abs/10.1137/080715962
 ## Related work:
 
 poster on PETSc user meeting, Vienna, Austria; June 28-30, 2016
-http://www.mcs.anl.gov/petsc/meetings/2016/posters/pospisil.pdf (poster)
+http://www.mcs.anl.gov/petsc/meetings/2016/posters/pospisil.pdf
 
 
 results with parallel PETSc implementation: 
