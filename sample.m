@@ -1,10 +1,8 @@
 % Matlab implementation of FEM-H1 methodology
+% see README for further informations and references
 %
-% for theory see
-% PETSc user meeting, Vienna, Austria; June 28-30, 2016
-% http://www.mcs.anl.gov/petsc/meetings/2016/posters/pospisil.pdf (poster)
-%
-% Pospisil L., Gagliardini P., Sawyer W., Horenko I.: On a scalable nonparametric denoising of time series signals
+% Lukas Pospisil, USI Lugano
+% published under MIT licence, 2017
 %
 
 clear all
